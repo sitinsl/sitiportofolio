@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+body{
+	background-image: url("BG Pink baru.png")
+}
+
+li, span, p {
+	font-family: 'Raleway', sans-serif
+}
+
+.judulnavbar{
+	font-family: 'Raleway', sans-serif
+}
